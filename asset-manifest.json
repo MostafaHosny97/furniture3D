@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/furniture3D/static/css/main.9645e548.css",
+    "main.js": "/furniture3D/static/js/main.731ed687.js",
+    "static/media/furniture_-_dresser.glb": "/furniture3D/static/media/furniture_-_dresser.792676f61ae50c80cd63.glb",
+    "static/media/Recliner.glb": "/furniture3D/static/media/Recliner.fe0554ad9dc0c59115c6.glb",
+    "static/media/basket_swing_chair.glb": "/furniture3D/static/media/basket_swing_chair.cc8249c86f7459fb0518.glb",
+    "static/media/fa-solid-900.ttf": "/furniture3D/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/404-Error-0.jpg": "/furniture3D/static/media/404-Error-0.4d35ce5a0bda0b41036e.jpg",
+    "static/media/fa-brands-400.ttf": "/furniture3D/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/furniture3D/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/furniture3D/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/background.jpg": "/furniture3D/static/media/background.c2bbb8b28c3d63835664.jpg",
+    "static/media/fa-regular-400.ttf": "/furniture3D/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/chair.jpg": "/furniture3D/static/media/chair.10eb9a3a37d3fd70a02d.jpg",
+    "static/media/basking.jpg": "/furniture3D/static/media/basking.650f9415e9d548d08c40.jpg",
+    "static/media/fa-regular-400.woff2": "/furniture3D/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/office.jpg": "/furniture3D/static/media/office.d5f392c4301c9dd641b1.jpg",
+    "static/media/fa-v4compatibility.ttf": "/furniture3D/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/furniture3D/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/furniture3D/index.html",
+    "main.9645e548.css.map": "/furniture3D/static/css/main.9645e548.css.map",
+    "main.731ed687.js.map": "/furniture3D/static/js/main.731ed687.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9645e548.css",
+    "static/js/main.731ed687.js"
+  ]
+}
