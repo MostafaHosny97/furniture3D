@@ -8,6 +8,8 @@ import Details from './Components/Details/Details';
 import FirstPicture from './Components/FirstPicture/FirstPicture';
 import SecondPicture from './Components/SecondPicture/SecondPicture';
 import ThirdPicture from './Components/ThirdPicture/ThirdPicture';
+import Chat from './Components/Chat/Chat';
+
 
 
 const routers = createBrowserRouter([
@@ -15,6 +17,7 @@ const routers = createBrowserRouter([
       { index:true,element: <Home /> },
       { path: "home",element: <Home /> },
       { path: "furniture3D",element: <Home /> },
+      { path: "chat", element :<Chat/>},
       { path: "details", element :<Details/> },
       { path: "firstpicture", element :<FirstPicture/> },
       { path: "secondpicture", element :<SecondPicture/> },
@@ -30,7 +33,6 @@ export default function App() {
   return <>
   
   <RouterProvider router={routers}/>
-  
   
   </>
 }

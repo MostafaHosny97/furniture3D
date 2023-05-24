@@ -3,7 +3,6 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Montserrat Alternates', cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -13,7 +12,6 @@ body {
   background-image: url(../src/images/background.jpg);
   background-position: center center;
   background-size: cover;
-  height: 100vh;
 }
 
 .text-main{
@@ -51,7 +49,7 @@ background-color:#a24a02 !important ;
 #details{
   /* background-color: #fcb67d; */
   background-color: #fac498;
-  height: 100vh;
+  
 }
 
 
@@ -67,4 +65,8 @@ width: 100%;
 
 a{
   text-decoration: none !important;
+}
+
+nav{
+  z-index: 999;
 }

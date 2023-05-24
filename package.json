@@ -1,5 +1,5 @@
 {
-  "homepage":"https://MostafaHosny97.github.io/furniture3D",
+  "homepage": "https://MostafaHosny97.github.io/furniture3D",
   "name": "furniture",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,9 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.11.1",
     "react-scripts": "5.0.1",
+    "react-simple-chatbot": "^0.6.1",
     "react-three-fiber": "^6.0.13",
+    "styled-components": "^4.4.1",
     "three": "^0.152.2",
     "web-vitals": "^2.1.4"
   },
