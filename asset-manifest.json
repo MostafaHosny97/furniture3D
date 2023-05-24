@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/furniture3D/static/css/main.9645e548.css",
-    "main.js": "/furniture3D/static/js/main.731ed687.js",
+    "main.css": "/furniture3D/static/css/main.2a1e2977.css",
+    "main.js": "/furniture3D/static/js/main.7f7b729f.js",
     "static/media/furniture_-_dresser.glb": "/furniture3D/static/media/furniture_-_dresser.792676f61ae50c80cd63.glb",
     "static/media/Recliner.glb": "/furniture3D/static/media/Recliner.fe0554ad9dc0c59115c6.glb",
     "static/media/basket_swing_chair.glb": "/furniture3D/static/media/basket_swing_chair.cc8249c86f7459fb0518.glb",
@@ -19,11 +19,11 @@
     "static/media/fa-v4compatibility.ttf": "/furniture3D/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
     "static/media/fa-v4compatibility.woff2": "/furniture3D/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/furniture3D/index.html",
-    "main.9645e548.css.map": "/furniture3D/static/css/main.9645e548.css.map",
-    "main.731ed687.js.map": "/furniture3D/static/js/main.731ed687.js.map"
+    "main.2a1e2977.css.map": "/furniture3D/static/css/main.2a1e2977.css.map",
+    "main.7f7b729f.js.map": "/furniture3D/static/js/main.7f7b729f.js.map"
   },
   "entrypoints": [
-    "static/css/main.9645e548.css",
-    "static/js/main.731ed687.js"
+    "static/css/main.2a1e2977.css",
+    "static/js/main.7f7b729f.js"
   ]
 }
